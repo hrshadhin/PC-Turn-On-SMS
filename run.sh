@@ -1,2 +1,2 @@
-date >> time.txt
-python sms.py >> time.txt
+date >> log.txt
+python sms.py >> log.txt
