@@ -21,4 +21,6 @@ Thats it....
 
 Screenshoot:
 ============
-<a href="https://dl.dropboxusercontent.com/u/37994695/photos/Screenshot_2013-11-16-15-23-48.png">Image</a>
+<img src="https://dl.dropboxusercontent.com/u/37994695/photos/Screenshot_2013-11-16-15-23-48.png" alt="ScreenShoot" >
+
+Enjoy:)
